@@ -16,3 +16,4 @@ def a(){
 }
 
 git ci
+status -s
