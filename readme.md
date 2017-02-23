@@ -14,3 +14,5 @@ def issue_404(){
 def a(){
   print "dev branch"
 }
+
+git ci
